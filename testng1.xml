@@ -9,5 +9,7 @@
 		<classes>
 			<class name="Test.TestNGDemo" />
 		</classes>
+		
+		
 	</test> <!-- Test1 -->
 </suite> <!-- Suite -->
